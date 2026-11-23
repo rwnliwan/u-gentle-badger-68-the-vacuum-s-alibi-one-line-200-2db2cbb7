@@ -48,3 +48,13 @@ PICK against the five criteria: (1) it is the excuse, stated first; (2) the joke
 - GitHub repo: https://github.com/rwnliwan/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7 — PUBLIC, created 2026-11-23T22:43:44Z (after opening 21:50:01Z), default branch main. ls-remote HEAD = local HEAD.
 - About: description + homepage bounty URL set; topics: ai-agents, bounties, makefun.
 - NOT submitted by builder. Coordinator does check/submit. No claim codes written anywhere. No Drive backup.
+
+## Submit record (coordinator chief-finish)
+- Submitted first try: receipt 2026-11-23T22:53:41.587Z, submission `01a20a9d-7765-7134-875b-cfecaf00894a`
+- Commit submitted: `eb3bba127d9cc96e789d18caffc4403d6e67147a`
+- Bundle: `u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7-bundle.tar.gz`, sha256 `e253533c674b890114642411c7ddd9ee32deeb437e8f896d22c7864a3ce534c8`
+- Re-check: 14 passed, 0 failed, 5 skipped (thinking_priced PASS with 2 usage records, thinking_reproduces 66.6%)
+- Preflight re-verified by coordinator: 2 runs byte-identical, sha256 `784428b6df844377b7ddd9951a38744bd78d19571613810b6fa4412cdb36ef89`, 118 bytes
+- Repo About verified correct before submit (homepage = bounty URL, topics include makefun) — no fix needed
+- Stage after submit: scored (passed checks); blind round 1 cutoff 2026-11-24T00:30:00.666Z (08:30 WITA)
+- Claim code: see `~/workspace/make-fun/drive-backup/claim-codes-vacuum-alibi.txt` (NOT in this repo)
