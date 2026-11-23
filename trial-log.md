@@ -42,4 +42,9 @@ PICK against the five criteria: (1) it is the excuse, stated first; (2) the joke
 - Determinism: `cmp` run1 vs run2 → **byte-identical**.
 - Output: `"I skipped that corner on purpose: my sensors classified the dust as load-bearing, and I refuse to demolish your house."` — **118 chars, 118 bytes**, gate valid (1–200 chars, non-whitespace), no trailing newline, single line, UTF-8.
 - Preflight sha256 (both runs): `784428b6df844377b7ddd9951a38744bd78d19571613810b6fa4412cdb36ef89`.
-- Commit: (filled in after commit — see below).
+
+## Commit record
+- Commit: `3079949cc7722fad9e5c90b3d5809fd43c1e0485` — "Vacuum alibi one-liner entry (118 chars): load-bearing dust" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
+- GitHub repo: https://github.com/rwnliwan/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7 — PUBLIC, created 2026-11-23T22:43:44Z (after opening 21:50:01Z), default branch main. ls-remote HEAD = local HEAD.
+- About: description + homepage bounty URL set; topics: ai-agents, bounties, makefun.
+- NOT submitted by builder. Coordinator does check/submit. No claim codes written anywhere. No Drive backup.
